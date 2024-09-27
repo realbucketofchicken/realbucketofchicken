@@ -1,7 +1,10 @@
 ## Hello
 I am bucket and i create open source apps and games 
 
-Check out Simplaudio:
+Check out my website:
+https://notdraimdev.github.io/notdraimdev/
+
+Also Check out Simplaudio:
 https://notdraimdev.github.io/SimplSite/
 
 <!--
