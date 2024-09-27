@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hello
+I am i and i create open source apps and games 
+
+Check out Simplaudio:
+https://notdraimdev.github.io/SimplSite/
 
 <!--
 **notdraimdev/notdraimdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
