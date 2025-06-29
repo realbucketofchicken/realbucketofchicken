@@ -2,10 +2,10 @@
 I am bucket and i create open source apps and games 
 
 Check out my website:
-https://notdraimdev.github.io/notdraimdev/
+https://realbucketofchicken.github.io/realbucketofchicken/
 
 Also Check out Simplaudio:
-https://notdraimdev.github.io/SimplSite/
+https://realbucketofchicken.github.io/SimplSite/
 
 <!--
 **notdraimdev/notdraimdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
