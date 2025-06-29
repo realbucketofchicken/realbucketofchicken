@@ -1,0 +1,19 @@
+.title{
+    font-size: larger;
+}
+
+.center{
+    margin: auto;
+    width: 50%;
+    text-align: center;
+}
+
+.summarysecondary{
+  color: rgb(200, 200, 200);  
+  font-weight: 200;
+}
+
+@font-face {
+    font-family: 'Orbitron';
+    src: url('Orbitron/Orbitron-VariableFont_wght.ttf');
+}
