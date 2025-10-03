@@ -17,3 +17,35 @@
     font-family: 'Orbitron';
     src: url('Orbitron/Orbitron-VariableFont_wght.ttf');
 }
+
+.parallax_group {
+  position: relative;
+  height: 100vh;
+  width: 100vw;
+  transform-style: preserve-3d;
+}
+
+.parallax_layer {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+}
+
+.background_blob {
+    transform: translateZ(-1000px) scale(3);
+    z-index: 1;
+}
+
+.maintext{
+    z-index: 2;
+    transform: translateZ(0px) scale(1);
+}
+
+.wrapper {
+  height: 98vh;
+  overflow-x: hidden;
+  overflow-y: auto;
+  perspective: 300px;
+}
